@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💻 JavaScript & C++ Lover  
 
-![Profile Banner](https://your-image-url.com/banner.png)  
+
 
 ## 💡 About Me  
 - 🌱 I’m currently learning **React.js, Tailwind CSS & MERN Stack**  
@@ -68,7 +68,7 @@ I’m working with the **MERN (MongoDB, Express.js, React.js, Node.js) stack** f
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/fatima-tu-zahra-7068592b6)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  
 
