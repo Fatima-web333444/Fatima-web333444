@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fatima!  
 
-### 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💻 JavaScript & C++ Lover  
+### 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💻 JavaScript & C++ Lover|🚀 MERN Stack Devloper  
 
 
 
