@@ -65,38 +65,6 @@ I’m working with the **MERN (MongoDB, Express.js, React.js, Node.js) stack** f
 
 ---
 
-## 🧩 My First Project Using Next.js & TypeScript
-
-This is my **first project** using **Next.js and TypeScript**.  
-I’ve built a simple movie application that fetches real-time data from **The Movie Database (TMDB)** API.
-
-### 🔧 Features  
-- Browse Top Rated, Upcoming, and Now Playing movies  
-- View detailed movie info and trailer  
-- Responsive UI built with Tailwind CSS  
-- Dynamic routes with Next.js  
-- Strong typing using TypeScript  
-
----
-
-## 📈 GitHub Stats  
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatima-web333444&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-web333444&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatima-tu-zahra-7068592b6)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  
-
----
-
-## 🏆 Fun Fact  
-_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_  
-
-
----
 
 ## 📈 GitHub Stats  
 ![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatima-web333444&show_icons=true&theme=radical)  
