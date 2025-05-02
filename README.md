@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Fatima!  
 
-### 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💻 JavaScript & C++ Lover|🚀 MERN Stack Devloper  
+### 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💻 JavaScript & C++ Lover | ⚛️ Next.js & TypeScript Explorer | 🚀 MERN Stack Developer  
 
-
+---
 
 ## 💡 About Me  
-- 🌱 I’m currently learning **React.js, Tailwind CSS & MERN Stack**  
+- 🌱 I’m currently learning **React.js, Tailwind CSS, Next.js, TypeScript & MERN Stack**  
 - 👩‍💻 Passionate about **web development, C++, and UI/UX design**  
-- 🎯 Exploring **MVC architecture, full-stack development, and databases**  
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, MERN, MVC, Databases**  
-- ⚡ Fun fact: I love **solving complex UI challenges!**  
+- 🎯 Exploring **MVC architecture, full-stack development, and modern frameworks like Next.js**  
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, TypeScript, MERN, Next.js, Databases**  
+- ⚡ Fun fact: I love **solving complex UI challenges and learning scalable web architecture!**  
 
 ---
 
@@ -17,17 +17,20 @@
 I follow the **Model-View-Controller (MVC)** design pattern for structured and scalable applications:  
 
 - **Model**: Manages data and business logic (MySQL, SQLite, MongoDB).  
-- **View**: UI/Frontend (HTML, CSS, JavaScript, React).  
+- **View**: UI/Frontend (HTML, CSS, JavaScript, React, Next.js).  
 - **Controller**: Handles user requests and connects model with view (Node.js, Express.js).  
 
 ---
 
 ## 🚀 Tech Stack  
+
 ### **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
 ### **Backend & Tools**  
@@ -44,6 +47,7 @@ I follow the **Model-View-Controller (MVC)** design pattern for structured and s
 ### **Programming Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 
 ### **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
@@ -58,6 +62,39 @@ I’m working with the **MERN (MongoDB, Express.js, React.js, Node.js) stack** f
 - **Express.js**: Backend framework  
 - **React.js**: Frontend framework  
 - **Node.js**: Server-side runtime  
+
+---
+
+## 🧩 My First Project Using Next.js & TypeScript
+
+This is my **first project** using **Next.js and TypeScript**.  
+I’ve built a simple movie application that fetches real-time data from **The Movie Database (TMDB)** API.
+
+### 🔧 Features  
+- Browse Top Rated, Upcoming, and Now Playing movies  
+- View detailed movie info and trailer  
+- Responsive UI built with Tailwind CSS  
+- Dynamic routes with Next.js  
+- Strong typing using TypeScript  
+
+---
+
+## 📈 GitHub Stats  
+![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatima-web333444&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-web333444&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatima-tu-zahra-7068592b6)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  
+
+---
+
+## 🏆 Fun Fact  
+_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_  
+
 
 ---
 
